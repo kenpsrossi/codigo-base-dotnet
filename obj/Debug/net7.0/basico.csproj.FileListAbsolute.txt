@@ -1,0 +1,15 @@
+C:\Users\kenps\OneDrive\Área de Trabalho\codigo-do-futuro-back\dotnet\basico\bin\Debug\net7.0\basico.exe
+C:\Users\kenps\OneDrive\Área de Trabalho\codigo-do-futuro-back\dotnet\basico\bin\Debug\net7.0\basico.deps.json
+C:\Users\kenps\OneDrive\Área de Trabalho\codigo-do-futuro-back\dotnet\basico\bin\Debug\net7.0\basico.runtimeconfig.json
+C:\Users\kenps\OneDrive\Área de Trabalho\codigo-do-futuro-back\dotnet\basico\bin\Debug\net7.0\basico.dll
+C:\Users\kenps\OneDrive\Área de Trabalho\codigo-do-futuro-back\dotnet\basico\bin\Debug\net7.0\basico.pdb
+C:\Users\kenps\OneDrive\Área de Trabalho\codigo-do-futuro-back\dotnet\basico\obj\Debug\net7.0\basico.csproj.AssemblyReference.cache
+C:\Users\kenps\OneDrive\Área de Trabalho\codigo-do-futuro-back\dotnet\basico\obj\Debug\net7.0\basico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenps\OneDrive\Área de Trabalho\codigo-do-futuro-back\dotnet\basico\obj\Debug\net7.0\basico.AssemblyInfoInputs.cache
+C:\Users\kenps\OneDrive\Área de Trabalho\codigo-do-futuro-back\dotnet\basico\obj\Debug\net7.0\basico.AssemblyInfo.cs
+C:\Users\kenps\OneDrive\Área de Trabalho\codigo-do-futuro-back\dotnet\basico\obj\Debug\net7.0\basico.csproj.CoreCompileInputs.cache
+C:\Users\kenps\OneDrive\Área de Trabalho\codigo-do-futuro-back\dotnet\basico\obj\Debug\net7.0\basico.dll
+C:\Users\kenps\OneDrive\Área de Trabalho\codigo-do-futuro-back\dotnet\basico\obj\Debug\net7.0\refint\basico.dll
+C:\Users\kenps\OneDrive\Área de Trabalho\codigo-do-futuro-back\dotnet\basico\obj\Debug\net7.0\basico.pdb
+C:\Users\kenps\OneDrive\Área de Trabalho\codigo-do-futuro-back\dotnet\basico\obj\Debug\net7.0\basico.genruntimeconfig.cache
+C:\Users\kenps\OneDrive\Área de Trabalho\codigo-do-futuro-back\dotnet\basico\obj\Debug\net7.0\ref\basico.dll
