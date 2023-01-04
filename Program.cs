@@ -5,7 +5,7 @@
 
 using System.Text.Json;
 using Basico.Models;
-
+using Basico.Servicos;
 
 namespace basico;
 
@@ -14,7 +14,26 @@ namespace basico;
         public const string CAMINHO_ARQUIVO = @"/c/Users/kenps/OneDrive/Área de Trabalho/codigo-do-futuro-back/dotnet/basico/imports";
         static void Main(string[] args)
         {
-            
+
+           //AULA 15 A PARTI DAQUI//
+
+           
+             var cliente = new Cliente
+             {
+                Nome = "Jucileia"
+
+             };
+             
+             GenericoServico.ImprimeNome(cliente);
+
+             var fornecedor = new Fornecedor
+             {
+                Nome = "Didox business"
+
+             };
+             
+             GenericoServico.ImprimeNome(fornecedor);
+
             //funcoes
               //interfCUsuario
               //LeiaMostre.lerOuEscreverNaTela();
@@ -34,6 +53,7 @@ namespace basico;
               }
               */
 
+              /*//////AULA DO DIA 12 AQUI DESCOMENTADO//
               string conteudoDoArquivo = """
               {"nome": "Kenps", "telefone": "11989898989"}
               """;
@@ -56,7 +76,7 @@ namespace basico;
               leticia.Telefone = "(11)22222222";
 
               Console.WriteLine(leticia.ClientePorCompleto());
-            
+            /*///ATE AQUIDIA 12 /////
         //////////////////////////////////////////////
             //criado funcao lerOuEscreverNaTela================
            // Console.WriteLine($"Digite o nome");

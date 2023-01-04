@@ -1,6 +1,8 @@
+using Basico.interfaces;
+
 namespace Basico.Models;
 
-public class Cliente
+public class Cliente : IObjeto
 {
     ////Um construtor sem parametos , vazio///
     public Cliente (){ }

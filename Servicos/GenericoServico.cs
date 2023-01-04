@@ -1,11 +1,15 @@
+using Basico.interfaces;
+using Basico.Models;
+
 namespace Basico.Servicos;
 
 public class GenericoServico
 {
 
-    public void ImprimeNome(object objeto)
+    public static void ImprimeNome (IObjeto iObjeto)
     {
-        Console.WriteLine("O nome é" + objeto.ToString());
+
+        Console.WriteLine($"O nome é  {iObjeto.Nome}, da classe {iObjeto.ToString()}");
     }
 }
 
