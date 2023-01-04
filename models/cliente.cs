@@ -60,4 +60,8 @@ public class Cliente : IObjeto
         return $"Nome: {this.Nome} - Telefone: {this.Telefone}";
     }
 
+  public string NomeMaiusculo()
+  {
+     return this.Nome.ToUpper();
+  }
 }
